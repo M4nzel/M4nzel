@@ -66,7 +66,8 @@ Actualmente estoy profundizando mis conocimientos en áreas críticas de la infr
 * 🔥 **Seguridad Perimetral:** Fortinet / FortiGate.
 * ☁️ **Cloud Security:** Hardening y gestión de identidades en la nube.
 * 🤖 **DevSecOps:** Automatización de pruebas de seguridad en pipelines CI/CD.
-
+---
+### :zap: Actividad reciente
 <!--
 <div align="center">
   <a href="https://github.com/M4nzel">
