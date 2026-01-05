@@ -68,6 +68,9 @@ Actualmente estoy profundizando mis conocimientos en áreas críticas de la infr
 * 🤖 **DevSecOps:** Automatización de pruebas de seguridad en pipelines CI/CD.
 ---
 ### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 <!--
 <div align="center">
   <a href="https://github.com/M4nzel">
