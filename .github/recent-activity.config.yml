@@ -1,5 +1,10 @@
-username: M4nzel
-max_lines: 5
-readme_file: ./README.md
-disabled_events:
-  - comments
+settings:
+  username: M4nzel
+  max_lines: 5
+  readme_file: ./README.md
+
+  # Si quiere ver pushes, NO los deshabilite.
+  # Si algo le rompe por Issues/PR, puede deshabilitarlos aquí.
+  # disabled_events:
+  #   - issues
+  #   - pull_request
