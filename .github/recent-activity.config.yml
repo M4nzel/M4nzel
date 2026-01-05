@@ -1,7 +1,5 @@
-settings:
-  username: M4nzel
-  max_lines: 5
-  readme_file: ./README.md
-  # Para evitar que reviente por issues/PR (ver punto 2):
-  disabled_events: [comments]
-
+username: M4nzel
+max_lines: 5
+readme_file: ./README.md
+disabled_events:
+  - comments
