@@ -68,19 +68,9 @@ Actualmente estoy profundizando mis conocimientos en áreas críticas de la infr
 * 🤖 **DevSecOps:** Automatización de pruebas de seguridad en pipelines CI/CD.
 ---
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
-2. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
-3. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
-4. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
-5. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
-<!--RECENT-ACTIVITY:end-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 5th, 2026, 3:36:17 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--END_SECTION:activity-->
 
 <!-- <div align="center">
   <a href="https://github.com/M4nzel">
