@@ -3,8 +3,5 @@ settings:
   max_lines: 5
   readme_file: ./README.md
   # Para evitar que reviente por issues/PR (ver punto 2):
-  disabled_events:
-    - issues
-    - pr
-    - review
-    - comments
+  disabled_events: [comments]
+
