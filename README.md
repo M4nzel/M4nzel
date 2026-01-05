@@ -69,16 +69,15 @@ Actualmente estoy profundizando mis conocimientos en áreas críticas de la infr
 ---
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/M4nzel">
     <img src="https://github-readme-stats.vercel.app/api?username=M4nzel&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="180" alt="stats graph" />
   </a>
   <a href="https://github.com/M4nzel">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4nzel&layout=compact&theme=gotham&hide_border=true" height="180" alt="languages graph" />
-  </a>
--->  
+  </a> -->  
 ---
   > _“La seguridad no es un producto, es un proceso.”_
 </div>
