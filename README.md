@@ -75,7 +75,6 @@ Actualmente estoy profundizando mis conocimientos en áreas críticas de la infr
 4. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
 5. ⬆️ Pushed undefined commit(s) to [M4nzel/M4nzel](https://github.com/M4nzel/M4nzel)<br>
 <!--RECENT_ACTIVITY:end-->
-
 <!--RECENT_ACTIVITY:last_update-->
 
 <!-- <div align="center">
