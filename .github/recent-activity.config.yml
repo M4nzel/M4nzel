@@ -3,8 +3,12 @@ settings:
   max_lines: 5
   readme_file: ./README.md
 
+messages:
+  push: "⬆️ Pushed updates to {REPO}"
+
   # Si quiere ver pushes, NO los deshabilite.
   # Si algo le rompe por Issues/PR, puede deshabilitarlos aquí.
   # disabled_events:
   #   - issues
   #   - pull_request
+
